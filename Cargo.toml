@@ -1,0 +1,11 @@
+[package]
+name = "i3-quick-bind"
+version = "0.1.0"
+authors = ["Trevor Merrifield <trevorm42@gmail.com>"]
+
+[dependencies]
+clap = "2.26.2"
+colored = "1.5.3"
+
+[dependencies.i3ipc]
+version = "0.8.2"
