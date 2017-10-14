@@ -1,4 +1,5 @@
-# i3-quick-bind
+# i3-quick-bind [![Crate](https://img.shields.io/crates/v/i3-quick-bind.svg)](https://crates.io/crates/i3-quick-bind)
+
 Temporarily bind a shell command to a hotkey
 
 Usage:
